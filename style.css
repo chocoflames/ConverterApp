@@ -1,0 +1,49 @@
+.field {
+  width: 40%;
+  height: auto;
+  background-color: chocolate;
+}
+.asap {
+  display: flex;
+  justify-content: center;
+  width: 60%;
+  height: auto;
+  background-color: crimson;
+  margin-top: 20px;
+}
+.calcbtn {
+  background-color: darkgray;
+}
+.btn {
+  background-color: darkgray;
+}
+.operator {
+  background-color: dimgray;
+}
+.factor {
+  background-color: dimgray;
+}
+.input {
+  background-color: dimgray;
+}
+.inp {
+  background-color: dimgray;
+}
+.output {
+  background-color: dimgray;
+}
+.footer {
+  background-color: slategray;
+  width: 100%;
+  margin-top: 190px;
+}
+.copy {
+  text-align: center;
+  font-size: 25px;
+}
+.operator option {
+  color: white;
+}
+.factor option {
+  color: white;
+}
